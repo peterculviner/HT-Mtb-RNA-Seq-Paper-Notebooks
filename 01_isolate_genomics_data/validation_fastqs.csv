@@ -1,0 +1,4 @@
+file_index,fastq1,fastq2
+1,PCe47-l1_S1_L001_R1_001.fastq.gz,PCe47-l1_S1_L001_R2_001.fastq.gz
+2,PCe47-l2_S2_L001_R1_001.fastq.gz,PCe47-l2_S2_L001_R2_001.fastq.gz
+3,PCe47-l3_S3_L001_R1_001.fastq.gz,PCe47-l3_S3_L001_R2_001.fastq.gz

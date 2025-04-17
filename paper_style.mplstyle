@@ -1,0 +1,16 @@
+figure.dpi : 300
+figure.titlesize : 7
+xtick.labelsize : 6
+ytick.labelsize : 6
+axes.labelsize : 7
+axes.labelpad : 1
+axes.linewidth : 0.7
+xtick.major.width : 0.7
+ytick.major.width : 0.7
+xtick.major.size : 2.5
+ytick.major.size : 2.5
+xtick.major.pad : 2
+ytick.major.pad : 2
+font.sans-serif : Arial
+pdf.fonttype : 42
+
