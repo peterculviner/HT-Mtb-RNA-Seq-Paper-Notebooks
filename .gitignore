@@ -11,3 +11,4 @@ scripts/drafts
 .DS_Store
 *.egg-info
 build/
+statistic_checks.ipynb
